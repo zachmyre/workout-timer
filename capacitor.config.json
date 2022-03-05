@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "workout-timer",
+	"webDir": "www",
+	"bundledWebRuntime": false
+}
